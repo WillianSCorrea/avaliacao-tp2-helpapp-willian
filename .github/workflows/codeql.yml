@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "avaliacao-WillianSCorrea" ]
   pull_request:
-    branches: [ "avaliacao-WillianSCorrea" ]
+    branches: [ "main" ]
   schedule:
     - cron: '22 16 * * 2'
 
