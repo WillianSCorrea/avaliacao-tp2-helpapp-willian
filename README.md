@@ -57,7 +57,7 @@ Aplicação bem-sucedida da migration no Azure
 Tabelas e dados populados
 
 # 👨‍💻 Dados do aluno
-Nome: Willian Da Silva Correa 
+Nome: Willian Da Silva Correa . 
 Curso: Desenvolvimento de Sistemas – 3º Semestre
 
 Professor: Victor Icoma
