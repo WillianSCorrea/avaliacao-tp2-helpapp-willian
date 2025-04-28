@@ -22,7 +22,7 @@ namespace HelpApp.Infra.Data.Repositories
         public async Task<IEnumerable<Product>> GetProducts()
         {
             return await _context.Products
-                .Include(p => p.Category) // Carrega a categoria relacionada
+                .Include(p => p.Category) 
                 .ToListAsync();
         }
 

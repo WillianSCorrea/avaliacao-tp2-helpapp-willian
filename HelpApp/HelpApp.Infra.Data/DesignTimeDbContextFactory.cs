@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
-using HelpApp.Infra.Data.Context; // Namespace do seu ApplicationDbContext
+using HelpApp.Infra.Data.Context; 
 
 namespace HelpApp.Infra.Data
 {
